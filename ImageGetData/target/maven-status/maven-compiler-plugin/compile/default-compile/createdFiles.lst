@@ -1,0 +1,10 @@
+META-INF/spring-configuration-metadata.json
+com/fps/service/ImageExifPhotographer$1.class
+com/fps/ImageMetadataApplication.class
+com/fps/service/ImageExifPhotographer.class
+com/fps/domain/ImageSubjectKeyword.class
+com/fps/service/ImageExifSubjectKeyword.class
+com/fps/service/ImageExifSubjectKeyword$1.class
+com/fps/domain/ImageMeta.class
+com/fps/domain/ImageDomain.class
+com/fps/service/TempClass.class

@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "my",
+    "type": "com.fps.service.TempClass",
+    "sourceType": "com.fps.service.TempClass"
+  }],
+  "properties": [],
+  "hints": []
+}
